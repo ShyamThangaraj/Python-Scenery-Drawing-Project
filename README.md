@@ -1,4 +1,4 @@
-# Turtle Graphics Beach Scene
+# Turtle Graphics Scenery Drawing 
 
 A simple Python turtle graphics program that draws a beach scene with turtles, an umbrella, a chair, and more.
 
