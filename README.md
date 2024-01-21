@@ -7,9 +7,8 @@ A simple Python turtle graphics program that draws a beach scene with turtles, a
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
+- [Author](#Author)
+
 
 ## Introduction
 
